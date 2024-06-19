@@ -20,5 +20,5 @@
 [![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 -->
 
-## :triangular_flag_on_post: Member
-![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)  ![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)
+## :triangular_flag_on_post: Members
+![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)  ![Stats](https://github-readme-stats.vercel.app/api?username=kha212&theme=theme=vision-friendly-dark)
