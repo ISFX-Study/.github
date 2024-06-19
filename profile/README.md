@@ -1,6 +1,6 @@
 ![Hello](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ISFX-Study%20GitHub)
 
-## 소개
+## Introduce
 
 안녕하세요. 
 
@@ -20,3 +20,5 @@
 [![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)
 -->
+
+## Member
