@@ -12,10 +12,16 @@
 
 ## :triangular_flag_on_post: Projects
 + 2023년
-  + **[spring-study](https://github.com/ISFX-Study/spring-study)**: Spring 스터디(2023-05-01 ~ 2023-06-25)
-  + **[spring-jpa-study](https://github.com/ISFX-Study/spring-jpa-study)**: JPA, Spring-Data-JPA 스터디(2023-06-26 ~ 2023-11-19)
+  + **[Spring-Study](https://github.com/ISFX-Study/spring-study)**
+    + 기간 : 2023-05-01 ~ 2023-06-25
+    + Spring 스터디
+  + **[Spring-Jpa-Study](https://github.com/ISFX-Study/spring-jpa-study)**
+    + 기간 : 2023-06-26 ~ 2023-11-19
+    + JPA, Spring-Data-JPA 스터디
 + 2024년
-  + **[learn-study](https://github.com/ISFX-Study/learn-study)**: 자유 주제 스터디(2024-05-01 ~ )
+  + **[Learn-Study](https://github.com/ISFX-Study/learn-study)**
+    + 기간 : 2024-05-01 ~
+    + 자유 주제 스터디
 <!--
 [![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 -->
