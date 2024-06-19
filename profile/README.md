@@ -1,17 +1,17 @@
-# Welcome to MyOrganization
+![Hello](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ISFX-Study%20GitHub)
 
-![Logo](https://path/to/logo.png)
+## 소개
 
-## About Us
+안녕하세요. 
 
-MyOrganization is dedicated to improving the world through innovative solutions in technology and science. Our projects focus on sustainability, open-source development, and community engagement.
+소소하게 모여서 스터디를 진행하고 있습니다.
+
+다양한 주제로 스터디 및 사이드 프로젝트를 할 예정입니다.
+
+감사합니다.
 
 ## Projects
 
 - **[Project A](https://github.com/MyOrganization/ProjectA)**: An open-source initiative to tackle climate change.
 - **[Project B](https://github.com/MyOrganization/ProjectB)**: A community-driven platform for education and learning.
 
-## Get In Touch
-
-- **Email**: contact@myorganization.com
-- **Twitter**: [@MyOrg](https://twitter.com/MyOrg)
