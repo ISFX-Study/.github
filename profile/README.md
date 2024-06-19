@@ -1,4 +1,4 @@
-![Hello](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ISFX-Study%20GitHub)
+![Hello](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello👋&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20ISFX-Study%20GitHub)
 
 ## :triangular_flag_on_post: Introduce
 
