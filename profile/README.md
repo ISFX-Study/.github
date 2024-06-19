@@ -18,7 +18,7 @@
   + **[learn-study](https://github.com/ISFX-Study/learn-study)**: 자유 주제 스터디(2024-05-01 ~ )
 <!--
 [![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)
 -->
 
 ## Member
+![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)
