@@ -14,4 +14,7 @@
 
 - **[Project A](https://github.com/MyOrganization/ProjectA)**: An open-source initiative to tackle climate change.
 - **[Project B](https://github.com/MyOrganization/ProjectB)**: A community-driven platform for education and learning.
-
+<!--
+[![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+![Stats](https://github-readme-stats.vercel.app/api?username=pej4303&theme=theme=vision-friendly-dark)
+-->
