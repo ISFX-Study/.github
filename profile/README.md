@@ -23,7 +23,7 @@
     + 기간 : 2024-05-01 ~ 2024-12-21
     + 자유 주제 스터디
 + 2025년
-  + **[Learn-Study](https://github.com/ISFX-Study/learn-study)**
+  + **[SQLP-Study](https://github.com/ISFX-Study/sqlp-study)**
     + 기간 : 2025-01-01 ~ 2025-08-31
     + SQLP 스터디
 <!--
