@@ -20,8 +20,12 @@
     + JPA, Spring-Data-JPA 스터디
 + 2024년
   + **[Learn-Study](https://github.com/ISFX-Study/learn-study)**
-    + 기간 : 2024-05-01 ~
+    + 기간 : 2024-05-01 ~ 2024-12-21
     + 자유 주제 스터디
++ 2025년
+  + **[Learn-Study](https://github.com/ISFX-Study/learn-study)**
+    + 기간 : 2025-01-01 ~ 2025-08-31
+    + SQLP 스터디
 <!--
 [![Graph](https://activity-graph.herokuapp.com/graph?username=pej4303&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 -->
